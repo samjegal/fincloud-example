@@ -132,6 +132,8 @@ github.com/samjegal/go-autorest/autorest v0.11.5-0.20200906111652-5e286818fa7f h
 github.com/samjegal/go-autorest/autorest v0.11.5-0.20200906111652-5e286818fa7f/go.mod h1:JFgpikqFJ/MleTTxwepExTKnFUKKszPS8UavbQYUMuw=
 github.com/samjegal/go-fincloud-helpers v0.2.3 h1:fAUwThSKv35UD8uoaeRkohLeeBlvReZ6wNbEq0sqwhM=
 github.com/samjegal/go-fincloud-helpers v0.2.3/go.mod h1:hINsgEp09K0DXx/X3V0xz4g8fRLn9pG5q04mpzRTE4A=
+github.com/samjegal/go-fincloud-helpers v0.2.4 h1:207VT3CYrOoNT5QQi29i1CxEcS1/AlE7W1FvMpAIuYQ=
+github.com/samjegal/go-fincloud-helpers v0.2.4/go.mod h1:xqsZva6sJJf9O6qIhlQbOiUV3qFBUYkQL45M+/b/aTc=
 github.com/satori/go.uuid v1.2.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
@@ -191,6 +193,7 @@ golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200828194041-157a740278f4 h1:kCCpuwSAoYJPkNc6x0xT9yTtV4oKtARo4RGBQWOfg9E=
 golang.org/x/sys v0.0.0-20200828194041-157a740278f4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20200905004654-be1d3432aa8f/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/time v0.0.0-20190308202827-9d24e82272b4/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
 golang.org/x/tools v0.0.0-20180221164845-07fd8470d635/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
