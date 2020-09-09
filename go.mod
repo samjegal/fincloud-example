@@ -6,5 +6,5 @@ replace github.com/Azure/go-autorest/autorest => github.com/samjegal/go-autorest
 
 require (
 	github.com/hashicorp/go-azure-helpers v0.12.0
-	github.com/samjegal/fincloud-sdk-for-go v1.9.0
+	github.com/samjegal/fincloud-sdk-for-go v1.9.2-0.20200909093323-beeef8147130
 )
