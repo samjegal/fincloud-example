@@ -12,8 +12,8 @@ func main() {
 	sender := sender.BuildSender("FINCLOUD")
 	client := nas.NewClient()
 
-	client.AccessKey = "9FF16139561D9ED451BA"
-	client.Secretkey = "807D6963AD48E28745DAAD7F846AA3DFE6F27C0B"
+	client.BaseClient.AccessKey = "9FF16139561D9ED451BA"
+	client.BaseClient.Secretkey = "807D6963AD48E28745DAAD7F846AA3DFE6F27C0B"
 
 	client.Sender = sender
 

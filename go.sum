@@ -2,6 +2,10 @@ cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/Azure/azure-sdk-for-go v45.0.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/Azure/go-autorest v14.2.0+incompatible h1:V5VMDjClD3GiElqLWO7mz2MxNAK/vTfRHdAubSIPRgs=
 github.com/Azure/go-autorest v14.2.0+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
+github.com/Azure/go-autorest/autorest v0.11.3/go.mod h1:JFgpikqFJ/MleTTxwepExTKnFUKKszPS8UavbQYUMuw=
+github.com/Azure/go-autorest/autorest v0.11.4/go.mod h1:JFgpikqFJ/MleTTxwepExTKnFUKKszPS8UavbQYUMuw=
+github.com/Azure/go-autorest/autorest v0.11.5 h1:glWqPEB2W/zf3bk5BNXG7RL0qD12riPdCk71yJoejD8=
+github.com/Azure/go-autorest/autorest v0.11.5/go.mod h1:foo3aIXRQ90zFve3r0QiDsrjGDUwWhKl0ZOQy1CT14k=
 github.com/Azure/go-autorest/autorest/adal v0.9.0 h1:SigMbuFNuKgc1xcGhaeapbh+8fgsu+GxgDRFyg7f5lM=
 github.com/Azure/go-autorest/autorest/adal v0.9.0/go.mod h1:/c022QCutn2P7uY+/oQWWNcK9YU+MH96NgK+jErpbcg=
 github.com/Azure/go-autorest/autorest/adal v0.9.2 h1:Aze/GQeAN1RRbGmnUJvUj+tFGBzFdIg3293/A9rbxC4=
@@ -124,6 +128,12 @@ github.com/samjegal/fincloud-sdk-for-go v1.9.2-0.20200909092808-953072ce3a13 h1:
 github.com/samjegal/fincloud-sdk-for-go v1.9.2-0.20200909092808-953072ce3a13/go.mod h1:unAnAWQ5V/Mei1gGDHxHQR/Y6M40OmQgxv0G4sdngDE=
 github.com/samjegal/fincloud-sdk-for-go v1.9.2-0.20200909093323-beeef8147130 h1:12/zYS76bxU4aBU0dTAqqic+hccFchUmd/Kdh9XWGE4=
 github.com/samjegal/fincloud-sdk-for-go v1.9.2-0.20200909093323-beeef8147130/go.mod h1:unAnAWQ5V/Mei1gGDHxHQR/Y6M40OmQgxv0G4sdngDE=
+github.com/samjegal/fincloud-sdk-for-go v1.9.3 h1:x7xh4d479dR3qnIvLsPB4ikSLZ7xfdjdXqAH05YAQFU=
+github.com/samjegal/fincloud-sdk-for-go v1.9.3/go.mod h1:HOlQyShKHIZcYBU3aR7vDsVlTCgfEO+4st24l0pfCR4=
+github.com/samjegal/fincloud-sdk-for-go v1.9.4 h1:1x+GvfuH2d5WZmgOt+G7XNOm4+qcXwMqReO35e+51Fw=
+github.com/samjegal/fincloud-sdk-for-go v1.9.4/go.mod h1:HOlQyShKHIZcYBU3aR7vDsVlTCgfEO+4st24l0pfCR4=
+github.com/samjegal/fincloud-sdk-for-go v1.9.5 h1:DNyMgay0VEMYQ654q+VSn4GMhcQ8l1idHH6YevdyTZM=
+github.com/samjegal/fincloud-sdk-for-go v1.9.5/go.mod h1:HOlQyShKHIZcYBU3aR7vDsVlTCgfEO+4st24l0pfCR4=
 github.com/samjegal/go-autorest/autorest v0.0.0-20200908011700-76a89b3e2bac h1:XIQeYFzt1XWEQ3clGjBPjuJAPpGdJBUyE4ruOgt5PjA=
 github.com/samjegal/go-autorest/autorest v0.0.0-20200908011700-76a89b3e2bac/go.mod h1:JFgpikqFJ/MleTTxwepExTKnFUKKszPS8UavbQYUMuw=
 github.com/samjegal/go-autorest/autorest v0.11.5-0.20200906111652-5e286818fa7f h1:OklMXSMrIonCPo9HIS7OqMjyTfGYF8K9XzTFwZ7dBp0=
@@ -197,6 +207,7 @@ golang.org/x/tools v0.0.0-20190114222345-bf090417da8b/go.mod h1:n7NCudcB/nEzxVGm
 golang.org/x/tools v0.0.0-20190311212946-11955173bddd/go.mod h1:LCzVGOaR6xXOjkQ3onu1FJEFr0SW1gC7cKk1uF8kGRs=
 golang.org/x/tools v0.0.0-20191119224855-298f0cb1881e/go.mod h1:b+2E5dAYhXwXZwtnZ6UAqBI28+e2cm9otk0dWdXHAEo=
 golang.org/x/tools v0.0.0-20200904185747-39188db58858/go.mod h1:Cj7w3i3Rnn0Xh82ur9kSqwfTHTeVxaDqrfMjpcNT6bE=
+golang.org/x/tools v0.0.0-20200909210914-44a2922940c2/go.mod h1:Cj7w3i3Rnn0Xh82ur9kSqwfTHTeVxaDqrfMjpcNT6bE=
 golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
