@@ -10,15 +10,15 @@ import (
 
 func main() {
 	sender := sender.BuildSender("FINCLOUD")
-	client := nas.NewClient()
-
-	client.BaseClient.AccessKey = "9FF16139561D9ED451BA"
-	client.BaseClient.Secretkey = "807D6963AD48E28745DAAD7F846AA3DFE6F27C0B"
+	client := nas.NewWithKey(
+		"9FF16139561D9ED451BA",
+		"807D6963AD48E28745DAAD7F846AA3DFE6F27C0B",
+	)
 
 	client.Sender = sender
 
 	ctx := context.Background()
-	resp, err := client.GetList(ctx, "", "", "", "", "", "", "", "", "", "")
+	resp, err := nas.Client{BaseClient: client}.GetList(ctx, "", "", "", "", "", "", "", "", "", "")
 	if err != nil {
 		fmt.Println(err)
 		return
